@@ -1,1 +1,1 @@
-"""AeroSys-Delhi Backend Package"""
+"""AeroSys-Delhi Scientific Engine Package"""
